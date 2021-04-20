@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yellowspark
-- 👀 I’m interested in data analyst/ Web Development.
+- 👀 I’m interested in Data analyst/ Web Development.
 - 🌱 I’m currently learning ML.
 - 💞️ I’m looking to collaborate on any Data science/ Web Development related project.
 - 📫 How to reach me yellowspark0806@gmail.com
